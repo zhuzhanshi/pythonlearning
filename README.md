@@ -1,2 +1,2 @@
 # pythonlearning
-classes from shenduzhiyan 
+任务：完成Anaconda与Pycharm下载与安装。学习主要使用Anaconda中的jupyter notebook，不过把pycharm配置好方便之后学习开发，建议全部配置。并学习jupyter notebook基本操作。作业：学习代码截图或链接发打卡处参考：[安装配置]链接： https://pan.baidu.com/s/1y5R1JQQD_R68Gf73d95bmQ 提取码：ua9y             [Jupyter Notebook入门教程（上）]https://mp.weixin.qq.com/s/O2nTGOtqGR-V33-YJgPgJQ[Jupyter Notebook入门教程（下）]https://mp.weixin.qq.com/s/AwSzkjlpwvdUzh6CmHq6AQ[pycharm学习教程]https://www.bilibili.com/video/av7848443/?from=search&seid=10196288968389096316
