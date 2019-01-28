@@ -4,3 +4,5 @@
 任务：学习并掌握以下内容，包括数据类型与数据变量，重点学习列表，元组，字典，集合四种特性，掌握字符串的基本使用，了解两种注释方法，了解字符串相关函数方法，掌握re简单使用。最后了解python文件读写与编码utf-8与unicode。参考资料：[廖雪峰官方python教学]https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000[鱼C工作室python视频]链接：https://pan.baidu.com/s/1sCFFEoe-GZNGPgyCbqDJCQ 提取码：k3pw 解压码：www.zygx8.com
 
 任务：熟练掌握条件判断中单条件判断以及多条件判断，重点学习并熟练掌握分支循环，list循环操作，字典循环操作，以及普通循环操作。作业：学习代码截图或链接发打卡处参考资料：[廖雪峰官方python教学]https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000[鱼C工作室python视频]链接：https://pan.baidu.com/s/1sCFFEoe-GZNGPgyCbqDJCQ 提取码：k3pw 解压码：www.zygx8.com
+
+任务：学习并掌握数组与矩阵。了解Numpy中数组与矩阵的概念；对于数组重点学习并掌握多维数组，及数组访问。对于矩阵重点学习并掌握其生成及相关运算，如矩阵转置，求逆等操作。作业：学习代码截图或链接发打卡处参考：[Numpy学习]https://www.cnblogs.com/nxld/tag/pandas/https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
