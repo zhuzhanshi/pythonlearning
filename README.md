@@ -6,3 +6,6 @@
 任务：熟练掌握条件判断中单条件判断以及多条件判断，重点学习并熟练掌握分支循环，list循环操作，字典循环操作，以及普通循环操作。作业：学习代码截图或链接发打卡处参考资料：[廖雪峰官方python教学]https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000[鱼C工作室python视频]链接：https://pan.baidu.com/s/1sCFFEoe-GZNGPgyCbqDJCQ 提取码：k3pw 解压码：www.zygx8.com
 
 任务：学习并掌握数组与矩阵。了解Numpy中数组与矩阵的概念；对于数组重点学习并掌握多维数组，及数组访问。对于矩阵重点学习并掌握其生成及相关运算，如矩阵转置，求逆等操作。作业：学习代码截图或链接发打卡处参考：[Numpy学习]https://www.cnblogs.com/nxld/tag/pandas/https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
+
+任务：熟悉并掌握Pandas中DataFrame和Series两大数据结构，并掌握数据索引的三种方式，学会查询数据并进行统计分析。了解缺失值处理，仿透视表，仿excel。若学有余力，掌握高级用法中的多层索引。作业：学习代码截图或链接发打卡处参考资料：[pandas学习]https://www.cnblogs.com/nxld/tag/pandas/https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
+
