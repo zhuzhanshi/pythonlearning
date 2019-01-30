@@ -9,3 +9,4 @@
 
 任务：熟悉并掌握Pandas中DataFrame和Series两大数据结构，并掌握数据索引的三种方式，学会查询数据并进行统计分析。了解缺失值处理，仿透视表，仿excel。若学有余力，掌握高级用法中的多层索引。作业：学习代码截图或链接发打卡处参考资料：[pandas学习]https://www.cnblogs.com/nxld/tag/pandas/https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/
 
+任务：了解matplotlib的基本语句，掌握坐标轴的绘制方法，熟悉掌握散点图，折线图，直方图等几种种类的图绘制，掌握多图合并技巧，最后了解动画的制作。作业：学习代码截图或链接发打卡处参考：[matplotlib参考学习]https://blog.csdn.net/Notzuonotdied/article/details/77876080https://morvanzhou.github.io/tutorials/data-manipulation/plt/
